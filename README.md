@@ -1,10 +1,6 @@
-# super-bowls
-Proyek ini berjudul "TV, Halftime Shows, and the Big Game", merupakan salah satu Premium Project dalam Data Scientist Career Track oleh DataCamp. 
-Proyek ini membahas tentang mencari hubungan antara setiap variabel dalam acara Super Bowl, baik variabel permainan, TV, serta penampilan musik. 
-Data disediakan dalam bentuk .csv yang diperoleh dari Wikipedia. Setelah mengulik dan membersihkan data, dapat dijawab:
-- Hasil pertandingan yang paling ekstrim.
-- Bagaimana permainan sepak bola tersebut mempengaruhi penonton.
-- Bagaimana perubahan penonton, peringkat TV, dan biaya iklan setiap waktu.
-- Pemain musik yang paling produktif dalam acara Super Bowl.
+This project discusses the search for relationships between each variable in the Super Bowl National Football League (NFL), both variables in aspects of American soccer games, TV, and musical performance. Data is provided in the form of .csv obtained from Wikipedia. After examining and cleaning up the data, a conclusion can be drawn:
 
-File dalam Jupyter Notebook tersedia di halaman utama. Data yang diperlukan tersedia dalam folder datasets.
+- The most extreme match results.
+- How the soccer game affects the audience.
+- How viewers change, TV ratings, and advertising costs every time.
+- the most productive music player in the Super Bowl event.
